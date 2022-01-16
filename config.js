@@ -8,7 +8,7 @@ const error = chalk.bold.red
 
 global.owner = ['6288276765449','6285279166424'] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['6288276765449','6285279166424] // Premium user has unlimited limit
+global.prems = ['6288276765449','6285279166424'] // Premium user has unlimited limit
 global.APIs = {
 // Contoh Penambahan Rest Api Yang Akan Digunakan
 // Prefix: 'Alamat Url Website Rest Api',
