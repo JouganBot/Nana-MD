@@ -6,9 +6,9 @@ const received = chalk.bold.cyan
 const error = chalk.bold.red
 
 
-global.owner = ['6281390199407','6281393190599'] // Put your number here
+global.owner = ['6288276765449','6285279166424'] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['6288276765449','6285279166424] // Premium user has unlimited limit
 global.APIs = {
 // Contoh Penambahan Rest Api Yang Akan Digunakan
 // Prefix: 'Alamat Url Website Rest Api',
@@ -50,8 +50,8 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.packname = 'Nana-MD'
-global.author = 'Adul Alhy'
+global.packname = 'Jougan-MD'
+global.author = '@ItsmeAl'
 
 global.sessionid = '48736705854:2Tq6joffmVDzaS:24' // ID Sesi Instagram, Kamu Bisa Menganti Dengan Sesi Milikmu
 global.multiplier = 69 // Semakin Tinggi Angka/Nilai, Maka Peningkatan Level Akan Semakin Sulit
